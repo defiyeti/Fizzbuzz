@@ -1,1 +1,2 @@
 # Fizzbuzz
+The "Fizz-Buzz test" is an interview question used to filter programmers. This is the source-code for the answer and is written is Swift. It displays the word "Fizzbuzz" if a multiple of 3 and 5 is present, "Fizz" if a multiple of 3 is present, ""Buzz" if a multiple of 5 is present", and the integer value if none of the following are present. However, the values are only assigned between 1 and 20.
